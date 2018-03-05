@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 26 Jan, 2017 7:24:38 PM by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+	<class name="ad.hibernate.com.dto.ProductDTO" table="PRODUCT">
+		<cache usage="read-write" />
+
+		<id name="id" type="long">
+			<column name="ID" />
+			<generator class="increment" />
+		</id>
+		<property name="productId" type="long">
+			<column name="PRODUCT_ID" />
+		</property>
+		<property name="productName" type="java.lang.String">
+			<column name="PRODUCT_NAME" />
+		</property>
+		<property name="price" type="double">
+			<column name="PRICE" />
+		</property>
+	</class>
+</hibernate-mapping>

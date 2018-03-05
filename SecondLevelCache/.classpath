@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/TARUN/Desktop/JAVA 64/Jar_File/hibernate-annotation/Hibernate Jar Files/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TARUN/Desktop/JAVA 64/Jar_File/hibernate-annotation/Hibernate Jar Files/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TARUN/Desktop/JAVA 64/Jar_File/hibernate-annotation/Hibernate Jar Files/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TARUN/Desktop/JAVA 64/Jar_File/hibernate-annotation/Hibernate Jar Files/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TARUN/Desktop/JAVA 64/Jar_File/hibernate-annotation/Hibernate Jar Files/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TARUN/Desktop/JAVA 64/Jar_File/hibernate-annotation/Hibernate Jar Files/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TARUN/Desktop/JAVA 64/Jar_File/hibernate-annotation/Hibernate Jar Files/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TARUN/Desktop/JAVA 64/Jar_File/hibernate-annotation/Hibernate Jar Files/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TARUN/Desktop/JAVA 64/Jar_File/hibernate-annotation/Hibernate Jar Files/jaas.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TARUN/Desktop/JAVA 64/Jar_File/hibernate-annotation/Hibernate Jar Files/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TARUN/Desktop/JAVA 64/Jar_File/hibernate-annotation/Hibernate Jar Files/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TARUN/Desktop/JAVA 64/Jar_File/hibernate-annotation/Hibernate Jar Files/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
